@@ -3,8 +3,8 @@ class Volunteer(object):
         self.name = name
         self.age = age
 
-    def from_dict(source):
-        return Volunteer(source['name'], source['age'])
+    # def from_dict(from_dict):
+    #     return Volunteer(from_dict['name'], from_dict['age'])
 
     def to_dict(self):
         return {
