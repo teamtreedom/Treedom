@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "378964126805",
+    "firebase_url": "https://treedom-tools.firebaseio.com",
+    "project_id": "treedom-tools",
+    "storage_bucket": "treedom-tools.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378964126805:android:3c69fd9525c6e4a8",
+        "android_client_info": {
+          "package_name": "com.example.treedomtools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378964126805-uhmrc6a83g7scbf52t6uhvohlc9i9beu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3H4pSN7BgX1XsrgwvdneX9TbB3gYC64"
+        },
+        {
+          "current_key": "AIzaSyDm3H4pSN7BgX1XsrgwvdneX9TbB3gYC64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
