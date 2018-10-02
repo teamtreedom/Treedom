@@ -6,7 +6,8 @@ FIREBASE_KEY_PATH = "C:/Users/Treedom/Desktop/treedom-tools-firebase-adminsdk-xn
 db = db_connect.get_firebase_db(FIREBASE_KEY_PATH)
 
 def add_document(collection_path, document_json, custom_document_id = None):
-    document_ref = db.collection(collection_path).document(custom_document_id).set(document_json)
+    document_ref = db.collection(collection_path).document(custom_document_id)
+    document_ref.set(document_json)
     response_dict = {
         "collection_path": collection_path,
         "document_json": document_json,
