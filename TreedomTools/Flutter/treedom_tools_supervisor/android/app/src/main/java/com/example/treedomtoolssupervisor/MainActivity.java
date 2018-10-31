@@ -1,4 +1,4 @@
-package com.example.treedomtoolsmanager;
+package com.example.treedomtoolssupervisor;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

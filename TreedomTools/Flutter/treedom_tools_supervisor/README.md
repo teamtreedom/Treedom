@@ -1,4 +1,4 @@
-# treedom_tools_manager
+# treedom_tools_supervisor
 
 A new Flutter project.
 
